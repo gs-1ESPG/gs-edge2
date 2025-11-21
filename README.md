@@ -31,7 +31,6 @@ Este projeto utiliza um **ESP32** com sensor **ultrassônico** para medir a dist
 
 O ESP32 mede a distância a cada 5 segundos e envia ao broker MQTT:
 
-* **/TEF/bin001/attrs** → estado da saída (on/off)
 * **/TEF/bin001/attrs/d** → distância lida em cm
 
 Quando recebe comandos como `bin001@on|` ou `bin001@off|`, altera o estado e publica de volta.
