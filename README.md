@@ -41,13 +41,15 @@ O ESP32 mede a distância a cada 5 segundos e envia ao broker MQTT:
 
 ### 🔥 **Exemplo 1 — Lixeira Cheia**
 
-![Lixeira cheia](sandbox:/mnt/data/c4f519a2-f4b5-4288-8bff-b4ede89c402c.png)
+<img width="500" height="500" alt="cheia" src="https://github.com/user-attachments/assets/54340276-405f-4c76-abec-b7446e8bf2b5" />
+
 
 ---
 
 ### ✅ **Exemplo 2 — Lixeira Normal**
 
-![Lixeira normal](sandbox:/mnt/data/e958d3ff-cfe7-457c-93b1-853ab82ce40b.png)
+<img width="500" height="500" alt="vazia" src="https://github.com/user-attachments/assets/868a755e-d5a1-4d81-893e-3f02a7c1fd0b" />
+
 
 ---
 
